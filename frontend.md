@@ -34,3 +34,6 @@ cd packages/shared && pnpm test -- -t "pattern.*"
 ```
 
 These commands allow you to run individual test files or groups of tests without running the entire test suite.
+
+Test
+Test
